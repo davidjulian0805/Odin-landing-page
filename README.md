@@ -1,7 +1,3 @@
-# Odin-landing-page
-Here’s a clean **README.md** you can use for your **Odin Landing Page Project**. It’s written in a way that looks good on GitHub and explains the project clearly.
-
----
 
 # Odin Landing Page
 
